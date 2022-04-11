@@ -3,11 +3,6 @@ This is not awesome.
 
 ## Content
 
-- https://github.com/qulingyuan/robVeg
-  - 美团抢菜脚本
-  - https://gist.github.com/zgl018/742b661edd2902e80db4bfca59d01e1a
-    - 配合使用
-
 ### 团购
 
 - https://docs.qq.com/sheet/DTkV3Ulp0aGtZUmtp?tab=BB08J2&scode=
@@ -44,6 +39,10 @@ This is not awesome.
   - 上海疫情守望互助指南 (by 海上指南针)
 - https://docs.qq.com/sheet/DR3p2dmF4Znh6Rlp0?tab=BB08J2&scode=
   - 上海疫情期间线上活动汇总
+- https://github.com/qulingyuan/robVeg
+  - 美团抢菜脚本
+  - https://gist.github.com/zgl018/742b661edd2902e80db4bfca59d01e1a
+    - 配合使用
 - https://projects.thepaper.cn/interactive/2022/03/helpyizhong/index.html
   - 澎湃新闻战疫服务平台：求助、辟谣、问询
 - https://mp.weixin.qq.com/s/iYlk9DQJjXXxA5YvRMsfpw
