@@ -17,7 +17,12 @@ This is not awesome.
   - 上海-各类物资采购渠道_0407
 - https://shimo.im/docs/0l3NV5lEwOfpQx3R/read
   - 魔都防疫指南3.0
-- https://docs.qq.com/sheet/DUGtlbFZpYUROZVlC?tab=eguplw
-  - 上海医院停复诊信息｜互联网医院问诊取药｜心理援助｜物资援助（4月5日后不再实时更新）
 - https://shimo.im/docs/loqeWyQor8SLYYAn/read
   - 上海疫情守望互助指南 (by 海上指南针)
+
+### 医疗
+
+- https://docs.qq.com/sheet/DQkxnQmxjYndhdGlX?tab=osx90p
+  - 上海医疗紧急求助
+- https://docs.qq.com/sheet/DUGtlbFZpYUROZVlC?tab=eguplw
+  - 上海医院停复诊信息｜互联网医院问诊取药｜心理援助｜物资援助（4月5日后不再实时更新）
