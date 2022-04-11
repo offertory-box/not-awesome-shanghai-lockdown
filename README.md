@@ -21,6 +21,8 @@ This is not awesome.
   - 苏格拉底很闲｜一位普通上海市民失败的囤货经历与十条实用囤货指南
 - https://docs.google.com/document/d/1-c93ax4Uog_CHTOLBKpKLNCUtZYwacGbXm8OP3Fh810/preview?pru=AAABgDqA8Xo*HwwKU4ZNfDf18fmat_iz9
   - 非常时期囤货手册
+- https://mp.weixin.qq.com/s/QCxkTpioIiQr1lZ6CaSLgA
+  - 囤积食物的点点经验
 
 ### 医疗
 
@@ -46,3 +48,12 @@ This is not awesome.
   - 澎湃新闻战疫服务平台：求助、辟谣、问询
 - https://mp.weixin.qq.com/s/iYlk9DQJjXXxA5YvRMsfpw
   - 中国青年报社
+- 上海各小区微信群
+  - http://h5.quicktour.cn/village/%E6%9D%A8%E6%B5%A6%E5%8C%BA
+    - 杨浦区
+  - http://h5.quicktour.cn/village/%E9%9D%99%E5%AE%89%E5%8C%BA
+    - 静安区
+  - http://h5.quicktour.cn/village/%E5%BE%90%E6%B1%87%E5%8C%BA
+    - 徐汇区
+  - http://h5.quicktour.cn/village/%E9%BB%84%E6%B5%A6%E5%8C%BA
+    - 黄浦区
