@@ -19,6 +19,13 @@ This is not awesome.
   - 魔都防疫指南3.0
 - https://shimo.im/docs/loqeWyQor8SLYYAn/read
   - 上海疫情守望互助指南 (by 海上指南针)
+- https://docs.qq.com/sheet/DR3p2dmF4Znh6Rlp0?tab=BB08J2&scode=
+  - 上海疫情期间线上活动汇总
+- https://projects.thepaper.cn/interactive/2022/03/helpyizhong/index.html
+  - 澎湃新闻战疫服务平台：求助、辟谣、问询
+- https://mp.weixin.qq.com/s/iYlk9DQJjXXxA5YvRMsfpw
+  - 中国青年报社
+
 
 ### 医疗
 
@@ -26,3 +33,8 @@ This is not awesome.
   - 上海医疗紧急求助
 - https://docs.qq.com/sheet/DUGtlbFZpYUROZVlC?tab=eguplw
   - 上海医院停复诊信息｜互联网医院问诊取药｜心理援助｜物资援助（4月5日后不再实时更新）
+
+### 宠物
+
+- https://shimo.im/docs/RKAWVwze17Tjgk8X/read
+  - 宠物治疗、安置渠道与保护对策
