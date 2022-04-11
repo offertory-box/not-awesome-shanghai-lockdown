@@ -10,6 +10,8 @@ This is not awesome.
 - https://docs.qq.com/sheet/DSnBQbFFidmNQTFlQ?tab=BB08J2
   - 上海-各类物资采购渠道_0407
 - [东方购物](assets/%E4%B8%9C%E6%96%B9%E8%B4%AD%E7%89%A9.jpeg)
+- https://mp.weixin.qq.com/s/DVhJmm8IC127ra_knJxCQA
+  - 肉
 
 ### 囤货
 
