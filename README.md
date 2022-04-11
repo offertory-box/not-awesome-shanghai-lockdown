@@ -35,6 +35,8 @@ This is not awesome.
 
 ### 综合及未分类
 
+- https://helpshanghai.com/
+  - 疫情封控期物资信息共享互助平台
 - https://mp.weixin.qq.com/s/jfsGXn54TmGwyDwOzDA57g
   - 我整理出这些在上海的互助渠道，希望帮到你。
 - https://shimo.im/docs/0l3NV5lEwOfpQx3R/read
