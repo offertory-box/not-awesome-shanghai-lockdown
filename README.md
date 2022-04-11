@@ -9,7 +9,7 @@ This is not awesome.
   - 上海疫情团购资源·摘星阁PLUCK汇总
 - https://docs.qq.com/sheet/DSnBQbFFidmNQTFlQ?tab=BB08J2
   - 上海-各类物资采购渠道_0407
-= [东方购物](assets/%E4%B8%9C%E6%96%B9%E8%B4%AD%E7%89%A9.jpeg)
+- [东方购物](assets/%E4%B8%9C%E6%96%B9%E8%B4%AD%E7%89%A9.jpeg)
 
 ### 囤货
 
