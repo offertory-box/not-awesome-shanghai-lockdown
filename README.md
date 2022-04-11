@@ -47,12 +47,5 @@ This is not awesome.
   - 澎湃新闻战疫服务平台：求助、辟谣、问询
 - https://mp.weixin.qq.com/s/iYlk9DQJjXXxA5YvRMsfpw
   - 中国青年报社
-- 上海各小区微信群
-  - http://h5.quicktour.cn/village/%E6%9D%A8%E6%B5%A6%E5%8C%BA
-    - 杨浦区
-  - http://h5.quicktour.cn/village/%E9%9D%99%E5%AE%89%E5%8C%BA
-    - 静安区
-  - http://h5.quicktour.cn/village/%E5%BE%90%E6%B1%87%E5%8C%BA
-    - 徐汇区
-  - http://h5.quicktour.cn/village/%E9%BB%84%E6%B5%A6%E5%8C%BA
-    - 黄浦区
+- http://h5.quicktour.cn/village/%E6%9D%A8%E6%B5%A6%E5%8C%BA
+  - 上海各小区微信群
