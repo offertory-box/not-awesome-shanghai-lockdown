@@ -25,6 +25,7 @@ This is not awesome.
   - 上海医疗紧急求助
 - https://docs.qq.com/sheet/DUGtlbFZpYUROZVlC?tab=eguplw
   - 上海医院停复诊信息｜互联网医院问诊取药｜心理援助｜物资援助（4月5日后不再实时更新）
+- [方舱指南](assets/%E6%96%B9%E8%88%B1%E6%8C%87%E5%8D%97.jpeg)
 
 ### 宠物
 
